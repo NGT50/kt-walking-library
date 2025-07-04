@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>miniprojectver</groupId>
-	<artifactId>authormanagement</artifactId>
+	<artifactId>auth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>authormanagement</name>
+	<name>auth</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
